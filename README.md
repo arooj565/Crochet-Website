@@ -22,9 +22,6 @@ Kaarigari is a static front-end website created to showcase crochet handmade pro
 
 ---
 
-
----
-
 ## Important Note
 This project is **front-end only**. The contact and order forms do not send or store data on a server. They are included for demonstration and academic purposes.
 
